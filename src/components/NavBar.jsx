@@ -5,7 +5,7 @@ import { Button, Navbar } from "react-bootstrap";
 export function NavBar(props) {
   return (
     <Navbar bg="dark" variant="dark">
-      <Navbar.Brand href="#home">Avalanche Chat App</Navbar.Brand>
+      <Navbar.Brand href="#home">Polygon TestNet Chat App</Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse className="justify-content-end">
         <Navbar.Text>
